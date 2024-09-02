@@ -1,7 +1,12 @@
 # Trading
 trading challenge or trading goal for 30 days
 
-When the program is run, it will ask balance, percent of the risk per day and Risk/Reward(R : R) ratio.
+When the program is run, it will ask balance, 
+percent of the risk per day and 
+Risk/Reward(R : R) ratio.
+
+After you enter your data,
+It will show you daily target in CLI with table view.
 
 Example.. 
 if your balance is 10$,

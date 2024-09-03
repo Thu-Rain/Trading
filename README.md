@@ -1,4 +1,4 @@
-# Trading
+# Trading Challenge 
 trading challenge or trading goal for 30 days
 
 When the program is run, it will ask balance, 

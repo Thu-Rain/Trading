@@ -142,7 +142,7 @@ public class Main {
 		System.out.print("	".repeat(1));
 		for (int t = 0; t < 102;  t++) {
 			if(t>0){
-				System.out.print("–");
+				System.out.print("-");
 			}else{
 				System.out.print(" ");
 			}
